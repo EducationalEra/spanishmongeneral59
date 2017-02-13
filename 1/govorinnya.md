@@ -6,8 +6,8 @@
     <td align="center" colspan="2"><b>Говоріння</b></td>
   </tr>
             <tr>
-                <td align="center"><b>Монологічне мовлення</b></td>
-                <td align="center"><b>Діалогічне мовлення</b></td>
+                <td width="50%" align="center"><b>Монологічне мовлення</b></td>
+                <td width="50%" align="center"><b>Діалогічне мовлення</b></td>
             </tr>
             <tr>
 <td style="vertical-align:top !important;">

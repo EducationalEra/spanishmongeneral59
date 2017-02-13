@@ -14,33 +14,33 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Види домашніх обов’язків. <br>
+Домашні обов’язки. <br>
 Родинні свята. <br>
 Кухонні прилади. <br>
 Посуд. <br>
 Види обробки продуктів харчування.<br>
-Назви медичних закладів. <br>
-Жанри фільмів / вистав. <br>
-Елементи інтер’єру кінотеатру / театру.<br> 
+Медичні заклади. <br>
+Кіно, театр: афіші, квитки, зал.<br>
 Види спортивних змагань. <br>
 Спортивні клуби, секції. <br>
-Визначні місця столиць. <br>
+Характеристика визначних місць.<br>
 Види позакласних заходів</td>
 <td width="50%" style="vertical-align:top !important;">
 <b>Дієслово:</b><br>
-Past Perfect. Tag-questions. Модальні дієслова: must / mustn't; need / needn't; should / shouldn't.<br>
-<b>Займенник:</b><br>
-зворотні (myself, ourselves, etc.); ступеню (enough, too... a little, much).<br>
-<b>Прислівник:</b><br>
-часу (just, ever), ступеню (a lot, a little).<br>
-<b>Сполучник:</b><br>
-so, then.<br>
-<b>Числівник:</b><br>
-порядкові до 1000.<br>
+узгодження дієслівних часів (Modo Indicativo), Imperativo afirmativo, imperativo negativo, Voz pasiva.<br>
+<b>Дієслівні  конструкції:</b><br>
+Volver a + infinitivo, Tener que + infinitivo, Dejar de + infinitivo, Terminar de + infinitivo, Acabar de + infinitivo, Deber + infinitivo, Dejar + infinitivo, Ponerse a + infinitivo.<br>
+<b>Іменник:</b><br>
+ряд складних за формою іменників.<br>
+<b>Прикметник:</b><br>
+ступені порівняння прикметників.<br>
 <b>Прийменник:</b><br>
-часу oefore, after, for, since
+<b>Прислівник:</b><br>
+ступені порівняння прислівників.<br>
+<b>Займенник:</b><br>
+присвійні займенники (слабка та сильна форми)
 </td>
-<td width="25%" style="vertical-align:top !important;">Інтонація реплік погодження. Інтонація складного речення. Інтонація реплік поради та висловлення почуттів</td>
+<td width="25%" style="vertical-align:top !important;">Удосконалення слуховимовних та інтонаційних навичок. Інтонація речень з альтернативними запитаннями</td>
             </tr>
 </table>
 

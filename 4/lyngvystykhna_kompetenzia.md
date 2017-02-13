@@ -14,34 +14,39 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Повсякденні дії.<br>
-Види дозвілля. <br>
+Повсякденна діяльність. <br>
+Види дозвілля.<br>
 Кореспонденція. <br>
 Літературні жанри. <br>
-Обладнання та послуги бібіліотеки. <br>
+Бібліотека.<br>
 Періодичні видання. <br>
 Музичні жанри / інструменти. <br>
 Географічні поняття. <br>
 Країни. <br>
-Національності.<br>
 Типи шкіл.<br>
-Назви навчальних  кімнат та шкільного обладнання</td>
+Приміщення школи.<br>
+Система оцінювання.<br>
+Правила поведінки</td>
 <td width="50%" style="vertical-align:top !important;">
 <b>Дієслово:</b><br>
-Active and Passive Vоісе.<br>
-Модальні дієслова: will, might, shall, should, let's, could.<br>
-<b>Займенник:</b><br>
-неозначені.<br>
+Pretérito Pluscuamperfecto, відмінювання зворотних дієслів у Presente, Pretérito Perfecto, Pretérito Imperfecto, Futuro Simple..<br>
+<b>Дієслівні конструкції: </b><br>
+iniciar a + Infinitivo, principar a + Infinitivo, tener + Participio. <br>
+Дієслова індивідуального дієвідмінювання в Pretérito Indefinido.<br>
+<b>Іменник:</b><br>
+множина складних за формою іменників.<br>
 <b>Прикметник:</b><br>
-в структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
+ступені порівняння.<br>
+<b>Прийменник:</b><br>
+sin, bajo, hasta, hacia.<br>
 <b>Прислівник:</b> <br>
-місця (everywhere, anywhere, somewhere, nowhere). <br>
-<b>Числівник:</b><br> 
-кількісні до 1 000 000.<br>
-<b>Adverbial Clause</b> with 'when'. <br>
-<b>Pro-clause</b> with 'so', 'not' (I think so. I hope not.)
+ступені порівняння. <br>
+<b>Займенник:</b><br>
+заперечні займенники (nada, nadie, ninguno/a).<br>
+<b>Сполучники:</b> <br>
+ni... ni, asi... como, también, tampoco, no sôlo...sino también, ya...ya, bien...bien. sea... sea, ora...ora
 </td>
-<td width="25%" style="vertical-align:top !important;">Особливості інтонації складносурядних та складнопідрядних речень</td>
+<td width="25%" style="vertical-align:top !important;">Удосконалення слуховимовних та інтонаційних навичок</td>
             </tr>
 </table>
 
